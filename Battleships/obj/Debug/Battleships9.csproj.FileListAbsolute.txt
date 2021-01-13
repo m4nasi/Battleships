@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\Battleships9\Battleships9\obj\Debug\Battleships9.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Battleships9\Battleships9\obj\Debug\Battleships9.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Battleships9\Battleships9\bin\Debug\Battleships9.exe.config
+C:\Users\Asus\source\repos\Battleships9\Battleships9\bin\Debug\Battleships9.exe
+C:\Users\Asus\source\repos\Battleships9\Battleships9\bin\Debug\Battleships9.pdb
+C:\Users\Asus\source\repos\Battleships9\Battleships9\obj\Debug\Battleships9.exe
+C:\Users\Asus\source\repos\Battleships9\Battleships9\obj\Debug\Battleships9.pdb
+C:\Users\Manas\source\repos\Battleships9\Battleships9\bin\Debug\Battleships9.exe.config
+C:\Users\Manas\source\repos\Battleships9\Battleships9\bin\Debug\Battleships9.exe
+C:\Users\Manas\source\repos\Battleships9\Battleships9\bin\Debug\Battleships9.pdb
+C:\Users\Manas\source\repos\Battleships9\Battleships9\obj\Debug\Battleships9.csprojAssemblyReference.cache
+C:\Users\Manas\source\repos\Battleships9\Battleships9\obj\Debug\Battleships9.csproj.CoreCompileInputs.cache
+C:\Users\Manas\source\repos\Battleships9\Battleships9\obj\Debug\Battleships9.exe
+C:\Users\Manas\source\repos\Battleships9\Battleships9\obj\Debug\Battleships9.pdb
